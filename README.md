@@ -10,3 +10,9 @@
 - [ ] Monitoring (Prometheus/Grafana)
 - [ ] Cloud Security
 - [ ] FinOps
+AI-Cloud-Roadmap/
+├── README.md
+├── Terraform_MultiVM/
+├── Ansible_Patching/
+├── Dockerized_App/
+└── Kubernetes_Cluster/
