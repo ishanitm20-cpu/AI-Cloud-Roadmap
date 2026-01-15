@@ -47,3 +47,17 @@ This repo documents my month‑by‑month progress using **Udemy + free resource
 ---
 
 ## 📂 Repo Structure
+
+
+---
+
+## 🎯 Career Goal
+
+By completing this roadmap, I aim to transition into roles such as:
+- Cloud Engineer / Cloud Architect  
+- DevOps Engineer / Site Reliability Engineer (SRE)  
+- Infra Security Specialist (Cloud + AI)  
+- AIOps Engineer  
+
+---
+
